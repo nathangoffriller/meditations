@@ -1,0 +1,26 @@
+{
+  "name": "react-blog-backend",
+  "version": "1.0.0",
+  "description": "A Koa and GraphQl backend for react blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Chin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathangoffriller/meditations.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nathangoffriller/meditations/issues"
+  },
+  "homepage": "https://github.com/nathangoffriller/meditations#readme",
+  "dependencies": {
+    "apollo-server-koa": "^2.21.0",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.4",
+    "koa": "^2.13.1",
+    "moment": "^2.29.1"
+  }
+}
